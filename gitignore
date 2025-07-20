@@ -1,0 +1,11 @@
+# Ignore data files
+data/raw/
+data/processed/
+
+# Ignore Kaggle API key
+kaggle.json
+
+# Python cache
+__pycache__/
+*.pyc
+
